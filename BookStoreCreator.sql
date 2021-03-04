@@ -1,0 +1,1 @@
+CREATE TABLE `bookstore`.`bookinventory` ( `Name` VARCHAR(50) NOT NULL , `Quantity` INT NOT NULL ) ENGINE = InnoDB;
